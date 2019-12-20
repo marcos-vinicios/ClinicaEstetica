@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208589117029",
+    "firebase_url": "https://clinica-d584f.firebaseio.com",
+    "project_id": "clinica-d584f",
+    "storage_bucket": "clinica-d584f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208589117029:android:4058ef20c999a6fc8f588c",
+        "android_client_info": {
+          "package_name": "marcosvinicios.cursoandroidapp.clinicaestetica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208589117029-nigutrn9h12uicbh5tm5m6lpfi8p9cp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "marcosvinicios.cursoandroidapp.clinicaestetica",
+            "certificate_hash": "58c8455967cd9247c93e152d0ea0d3c97d44ad2b"
+          }
+        },
+        {
+          "client_id": "208589117029-e1gnpg56vtb9l6v549issk3v25io5kta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2c8oaVkP2nUogAXVK7aHzN7BJxElT_BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208589117029-e1gnpg56vtb9l6v549issk3v25io5kta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
